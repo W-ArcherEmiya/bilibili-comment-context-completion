@@ -29,11 +29,13 @@
 - 主评论默认折叠，支持在浮窗内展开
 - 浮窗展示的是最小上下文链，不展示兄弟回复和完整树
 
-## 安装方式
+## 安装
 
-1. 安装支持用户脚本的浏览器扩展，例如 Tampermonkey
-2. 新建脚本并粘贴 `Bilibili Comment Context Completion.js` 内容
-3. 打开 B 站评论区使用
+先安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)。
+
+然后通过 Greasy Fork 安装脚本：
+
+[安装 B站评论上下文补全(Bilibili)](https://greasyfork.org/zh-CN/scripts/572814-b%E7%AB%99%E8%AF%84%E8%AE%BA%E4%B8%8A%E4%B8%8B%E6%96%87%E8%A1%A5%E5%85%A8-bilibili)
 
 ## 说明
 

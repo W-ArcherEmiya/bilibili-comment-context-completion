@@ -15,3 +15,7 @@
 - 悬停触发，无需额外按钮
 - 只在“回复子回复”的评论上触发
 - 主评论默认折叠，减少浮窗占用
+
+GitHub 项目地址：
+
+https://github.com/W-ArcherEmiya/bilibili-comment-context-completion
