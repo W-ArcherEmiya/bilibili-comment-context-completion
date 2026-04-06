@@ -19,7 +19,6 @@
 
 ## 演示
 
-<h2>演示</h2>
 <img src="https://raw.githubusercontent.com/W-ArcherEmiya/bilibili-comment-context-completion/main/assets/demo.gif" alt="演示动图" width="720">
 
 ## 安装
