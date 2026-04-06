@@ -19,16 +19,8 @@
 
 ## 演示
 
-把下面这条链接替换成你自己的 GIF 地址后，直接粘贴到 Greasy Fork 简介里即可：
-
 ```md
 ![演示动图](https://raw.githubusercontent.com/W-ArcherEmiya/bilibili-comment-context-completion/main/assets/demo.gif)
-```
-
-如果你想控制显示宽度，也可以用：
-
-```html
-<img src="https://raw.githubusercontent.com/W-ArcherEmiya/bilibili-comment-context-completion/main/assets/demo.gif" alt="演示动图" width="720">
 ```
 
 ## 安装
